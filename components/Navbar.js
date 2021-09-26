@@ -107,7 +107,7 @@ export default function Navbar() {
                 strokeWidth="2"
                 strokeLinecap="round"
                 strokeLinejoin="round"
-                class="feather feather-x"
+                className="feather feather-x"
               >
                 <line x1="18" y1="6" x2="6" y2="18"></line>
                 <line x1="6" y1="6" x2="18" y2="18"></line>
@@ -190,7 +190,7 @@ export default function Navbar() {
                 strokeWidth="2"
                 strokeLinecap="round"
                 strokeLinejoin="round"
-                class="feather feather-x"
+                className="feather feather-x"
               >
                 <line x1="18" y1="6" x2="6" y2="18"></line>
                 <line x1="6" y1="6" x2="18" y2="18"></line>
